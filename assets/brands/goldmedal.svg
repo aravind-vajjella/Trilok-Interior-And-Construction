@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 70" width="240" height="70">
+  <!-- Goldmedal Electricals -->
+  <g transform="translate(14, 15)">
+    <circle cx="18" cy="18" r="16" fill="#E31B23"/>
+    <circle cx="18" cy="18" r="10" fill="none" stroke="#FFF" stroke-width="2"/>
+    <circle cx="18" cy="18" r="4" fill="#FFF"/>
+  </g>
+  <text x="56" y="36" font-family="'Montserrat', sans-serif" font-weight="900" font-size="18" fill="#FFFFFF" letter-spacing="1.5">GOLDMEDAL</text>
+  <text x="56" y="52" font-family="'Manrope', sans-serif" font-weight="600" font-size="8" fill="#E31B23" letter-spacing="2.5">MODULAR SWITCHES &amp; AUTOMATION</text>
+</svg>

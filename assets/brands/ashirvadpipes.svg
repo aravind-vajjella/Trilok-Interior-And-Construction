@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 70" width="240" height="70">
+  <g transform="translate(14, 16)">
+    <rect x="0" y="2" width="30" height="30" rx="6" fill="#E30613"/>
+    <circle cx="15" cy="17" r="6" fill="#FFF"/>
+  </g>
+  <text x="52" y="36" font-family="'Montserrat', sans-serif" font-weight="800" font-size="19" fill="#FFFFFF" letter-spacing="1">ashirvad</text>
+  <text x="144" y="36" font-family="'Montserrat', sans-serif" font-weight="700" font-size="19" fill="#E30613" letter-spacing="1">PIPES</text>
+  <text x="52" y="52" font-family="'Manrope', sans-serif" font-weight="600" font-size="7.5" fill="#E5CD95" letter-spacing="2.5">BY ALIAXIS • SILENT SWR &amp; FLOWGUARD</text>
+</svg>

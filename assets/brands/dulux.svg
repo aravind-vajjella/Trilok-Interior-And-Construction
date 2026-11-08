@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 70" width="240" height="70">
+  <!-- Dulux Paint Flourish Wave -->
+  <g transform="translate(10, 16)">
+    <path d="M4 28 C12 12 24 6 36 12 C24 16 16 26 10 32 Z" fill="#00A859"/>
+    <path d="M12 22 C20 10 30 6 40 10 C30 16 22 24 16 30 Z" fill="#FFC107"/>
+    <path d="M20 18 C28 8 36 6 44 8 C36 14 28 22 22 28 Z" fill="#005BAA"/>
+  </g>
+  <text x="56" y="37" font-family="'Georgia', serif" font-weight="700" font-size="23" fill="#FFFFFF" letter-spacing="0.5">Dulux</text>
+  <text x="58" y="52" font-family="'Manrope', sans-serif" font-weight="600" font-size="7.5" fill="#E5CD95" letter-spacing="2.5">LET'S COLOUR • VELVET TOUCH</text>
+</svg>

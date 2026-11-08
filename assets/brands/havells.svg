@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 70" width="240" height="70">
+  <!-- Havells Red Logo -->
+  <g transform="translate(12, 16)">
+    <polygon points="18,0 36,16 18,32 0,16" fill="#E30613"/>
+    <circle cx="18" cy="16" r="5" fill="#FFF"/>
+  </g>
+  <text x="56" y="37" font-family="'Montserrat', sans-serif" font-weight="900" font-size="20" fill="#E30613" letter-spacing="2">HAVELLS</text>
+  <text x="56" y="52" font-family="'Manrope', sans-serif" font-weight="600" font-size="7.5" fill="#FFFFFF" letter-spacing="2.5">WIRES, SWITCHES &amp; SMART LIVING</text>
+</svg>

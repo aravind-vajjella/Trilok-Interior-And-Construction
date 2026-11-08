@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 70" width="240" height="70">
+  <!-- Duro Ply Badge -->
+  <rect x="12" y="15" width="40" height="40" rx="8" fill="#0054A6"/>
+  <text x="32" y="42" font-family="'Arial Black', sans-serif" font-weight="900" font-size="24" fill="#FFFFFF" text-anchor="middle">D</text>
+  <circle cx="42" cy="23" r="5" fill="#EE2A24"/>
+  <!-- Typography -->
+  <text x="60" y="38" font-family="'Montserrat', sans-serif" font-weight="900" font-size="22" fill="#FFFFFF" letter-spacing="2">DURO</text>
+  <text x="135" y="38" font-family="'Montserrat', sans-serif" font-weight="900" font-size="22" fill="#EE2A24" letter-spacing="2">PLY</text>
+  <text x="60" y="54" font-family="'Manrope', sans-serif" font-weight="600" font-size="8" fill="#E5CD95" letter-spacing="3">SINCE 1957 • PREMIUM PLY</text>
+</svg>

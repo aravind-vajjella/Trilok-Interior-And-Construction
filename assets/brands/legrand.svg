@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 70" width="240" height="70">
+  <!-- Iconic Legrand Red Square Mark -->
+  <rect x="14" y="16" width="34" height="34" rx="2" fill="#E2001A"/>
+  <path d="M22 22 L22 42 M22 42 L34 42" stroke="#FFF" stroke-width="3" stroke-linecap="square"/>
+  <text x="56" y="38" font-family="'Helvetica Neue', 'Arial', sans-serif" font-weight="700" font-size="22" fill="#FFFFFF" letter-spacing="1">legrand</text>
+  <text x="58" y="53" font-family="'Manrope', sans-serif" font-weight="600" font-size="7.5" fill="#E2001A" letter-spacing="3">GLOBAL ELECTRICAL SPECIALIST</text>
+</svg>

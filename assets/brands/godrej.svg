@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 70" width="240" height="70">
+  <!-- Godrej Signature Cursive Mark -->
+  <g transform="translate(16, 15)">
+    <path d="M8 8 C18 0 26 12 18 20 C12 26 2 28 6 36 C10 40 22 36 28 26" fill="none" stroke="#D11242" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <text x="56" y="38" font-family="'Great Vibes', 'Brush Script MT', cursive" font-size="32" fill="#FFFFFF">Godrej</text>
+  <text x="58" y="53" font-family="'Manrope', sans-serif" font-weight="600" font-size="8" fill="#D11242" letter-spacing="2">LOCKS &amp; ARCHITECTURAL HARDWARE</text>
+</svg>

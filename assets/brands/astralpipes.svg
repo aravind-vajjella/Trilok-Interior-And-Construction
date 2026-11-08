@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 70" width="240" height="70">
+  <g transform="translate(14, 16)">
+    <circle cx="17" cy="17" r="16" fill="#E31E24"/>
+    <path d="M8 17 L26 17 M17 8 L17 26" stroke="#FFF" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <text x="54" y="36" font-family="'Montserrat', sans-serif" font-weight="900" font-size="20" fill="#E31E24" letter-spacing="2">ASTRAL</text>
+  <text x="145" y="36" font-family="'Montserrat', sans-serif" font-weight="700" font-size="20" fill="#FFFFFF" letter-spacing="2">PIPES</text>
+  <text x="54" y="52" font-family="'Manrope', sans-serif" font-weight="600" font-size="8" fill="#A0AEC0" letter-spacing="2.5">CPVC PRO &amp; DRAINMASTER LEAD-FREE</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 70" width="240" height="70">
+  <!-- Hettich Blue Logo with Iconic Hinge Curves -->
+  <g transform="translate(10, 14)">
+    <path d="M8 6 C16 6 24 14 24 22 C24 30 16 38 8 38 C14 34 18 28 18 22 C18 16 14 10 8 6 Z" fill="#005BA9"/>
+    <path d="M14 10 C20 10 26 16 26 22 C26 28 20 34 14 34 C18 31 21 27 21 22 C21 17 18 13 14 10 Z" fill="#E5CD95"/>
+  </g>
+  <text x="46" y="40" font-family="'Georgia', serif" font-weight="700" font-size="25" fill="#FFFFFF" letter-spacing="0.5">Hettich</text>
+  <text x="48" y="55" font-family="'Manrope', sans-serif" font-weight="600" font-size="7.5" fill="#E5CD95" letter-spacing="2.5">TECHNIK FÜR MÖBEL</text>
+</svg>

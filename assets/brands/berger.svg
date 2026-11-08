@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 70" width="240" height="70">
+  <!-- Berger Heraldic Crest -->
+  <g transform="translate(14, 15)">
+    <path d="M2 4 L34 4 L34 22 C34 32 18 36 18 36 C18 36 2 32 2 22 Z" fill="#D71920"/>
+    <path d="M6 10 L14 10 L14 14 L18 10 L22 14 L22 10 L30 10" stroke="#FFF" stroke-width="2" fill="none"/>
+    <text x="18" y="27" font-family="'Georgia', serif" font-weight="700" font-size="12" fill="#FFF" text-anchor="middle">B</text>
+  </g>
+  <text x="56" y="38" font-family="'Georgia', serif" font-weight="700" font-size="24" fill="#FFFFFF" letter-spacing="1">Berger</text>
+  <text x="58" y="53" font-family="'Manrope', sans-serif" font-weight="600" font-size="7.5" fill="#D71920" letter-spacing="2.5">PAINT YOUR IMAGINATION</text>
+</svg>

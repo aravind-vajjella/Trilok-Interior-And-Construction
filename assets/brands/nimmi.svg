@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 70" width="240" height="70">
+  <g transform="translate(16, 16)">
+    <rect x="0" y="2" width="28" height="28" rx="6" fill="#F4511E"/>
+    <path d="M8 20 L14 10 L20 20" stroke="#FFF" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  </g>
+  <text x="52" y="38" font-family="'Montserrat', sans-serif" font-weight="800" font-size="22" fill="#FFFFFF" letter-spacing="2">nimmi</text>
+  <text x="54" y="53" font-family="'Manrope', sans-serif" font-weight="600" font-size="7.5" fill="#F4511E" letter-spacing="2.5">ARCHITECTURAL HARDWARE</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 70" width="240" height="70">
+  <!-- Asian Paints Iconic Multi-color Ribbon Symbol -->
+  <g transform="translate(14, 14)">
+    <path d="M16 4 C24 4 30 10 30 18 C30 26 22 34 14 34 C6 34 2 28 2 20 Z" fill="#EE3124"/>
+    <path d="M16 10 C22 10 26 14 26 19 C26 24 20 28 14 28 C9 28 7 24 7 19 Z" fill="#FFC107"/>
+    <circle cx="16" cy="19" r="4" fill="#00A3E0"/>
+  </g>
+  <text x="54" y="38" font-family="'Manrope', 'Helvetica Neue', sans-serif" font-weight="800" font-size="21" fill="#FFFFFF" letter-spacing="0.5">asian<tspan fill="#EE3124">paints</tspan></text>
+  <text x="56" y="53" font-family="'Manrope', sans-serif" font-weight="600" font-size="7.5" fill="#E5CD95" letter-spacing="2.5">ROYALE LUXURY EMULSIONS</text>
+</svg>

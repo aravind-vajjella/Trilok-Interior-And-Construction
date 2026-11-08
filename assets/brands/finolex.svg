@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 70" width="240" height="70">
+  <!-- Finolex Red Oval Logo -->
+  <g transform="translate(12, 16)">
+    <ellipse cx="18" cy="16" rx="17" ry="14" fill="#ED1C24"/>
+    <path d="M10 16 L26 16 M14 11 L22 21" stroke="#FFF" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+  <text x="54" y="37" font-family="'Arial Black', sans-serif" font-weight="900" font-size="20" fill="#ED1C24" letter-spacing="1">Finolex</text>
+  <text x="54" y="52" font-family="'Manrope', sans-serif" font-weight="700" font-size="7.5" fill="#FFFFFF" letter-spacing="3">FLAME RETARDANT WIRING CABLES</text>
+</svg>

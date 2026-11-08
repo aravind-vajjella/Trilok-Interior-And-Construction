@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 70" width="240" height="70">
+  <!-- Anchor by Panasonic -->
+  <g transform="translate(14, 15)">
+    <circle cx="17" cy="17" r="16" fill="#E30613"/>
+    <!-- Anchor symbol -->
+    <circle cx="17" cy="10" r="2.5" fill="#FFF"/>
+    <path d="M17 12 L17 24 M11 15 L23 15 M11 20 C11 25 23 25 23 20" stroke="#FFF" stroke-width="2" fill="none" stroke-linecap="round"/>
+  </g>
+  <text x="54" y="34" font-family="'Montserrat', sans-serif" font-weight="900" font-size="18" fill="#FFFFFF" letter-spacing="1.5">ANCHOR</text>
+  <text x="54" y="47" font-family="'Manrope', sans-serif" font-weight="600" font-size="8.5" fill="#00457C" letter-spacing="1">by Panasonic</text>
+  <text x="54" y="58" font-family="'Manrope', sans-serif" font-weight="500" font-size="6.5" fill="#A0AEC0" letter-spacing="2">ROMA SWITCHES &amp; ADVANCE WIRING</text>
+</svg>

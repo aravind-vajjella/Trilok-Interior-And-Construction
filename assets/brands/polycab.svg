@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 70" width="240" height="70">
+  <!-- Polycab Red & Green Logo -->
+  <g transform="translate(14, 16)">
+    <circle cx="16" cy="16" r="15" fill="#E31E24"/>
+    <path d="M16 6 C22 10 24 16 16 26 C12 20 10 14 16 6 Z" fill="#008848"/>
+  </g>
+  <text x="52" y="37" font-family="'Montserrat', 'Arial Black', sans-serif" font-weight="900" font-size="20" fill="#FFFFFF" letter-spacing="1.5">POLYCAB</text>
+  <text x="52" y="52" font-family="'Manrope', sans-serif" font-weight="600" font-size="7.5" fill="#E31E24" letter-spacing="2.5">CONNECTION ZINDAGI KA • WIRES &amp; CABLES</text>
+</svg>

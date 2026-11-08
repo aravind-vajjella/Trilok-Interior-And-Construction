@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 70" width="240" height="70">
+  <!-- Sylvan Tree Emblem -->
+  <g transform="translate(12, 14)">
+    <circle cx="21" cy="21" r="19" fill="#1C3F24" stroke="#E5CD95" stroke-width="1.5"/>
+    <path d="M21 9 L15 19 L19 19 L13 29 L29 29 L23 19 L27 19 Z" fill="#E5CD95"/>
+    <rect x="19.5" y="29" width="3" height="6" fill="#E5CD95"/>
+  </g>
+  <!-- Typography -->
+  <text x="62" y="36" font-family="'Playfair Display', serif" font-weight="700" font-size="20" fill="#FFFFFF" letter-spacing="2">SYLVAN</text>
+  <text x="156" y="36" font-family="'Montserrat', sans-serif" font-weight="700" font-size="18" fill="#E5CD95" letter-spacing="2">PLY</text>
+  <text x="62" y="52" font-family="'Manrope', sans-serif" font-weight="600" font-size="7.5" fill="#9DA6B8" letter-spacing="3">SIGNATURE TIMBER BOARDS</text>
+</svg>
